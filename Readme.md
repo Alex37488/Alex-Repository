@@ -41,4 +41,12 @@
 
 **Например**
 - Внутритекстовая:(http://example.com/) и тд
-- [Сноска] :[http://example.com]
+- [Сноска](http://example.com)
+
+## Изображения в *Markdown*
+
+Для добавления ссылки используется символ !, за которым следует ссылка.
+
+**Например:**
+ ![Кошка](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kot-026.jpg/1200px-Kot-026.jpg)
+ 
