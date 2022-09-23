@@ -50,3 +50,6 @@
 **Например:**
  ![Кошка](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kot-026.jpg/1200px-Kot-026.jpg)
  
+ variant 1
+ git branch name branch
+ git branch checkout 
