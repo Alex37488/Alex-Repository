@@ -68,3 +68,5 @@
  git branch name branch
  git branch checkout 
 >>>>>>> feature1
+
+Go conflict
