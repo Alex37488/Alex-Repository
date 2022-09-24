@@ -67,6 +67,41 @@
  variant 1
  git branch name branch
  git branch checkout 
+<<<<<<< HEAD
 >>>>>>> feature1
 
 Go conflict
+=======
+
+
+
+
+
+
+
+
+
+
+ variant 1
+ git branch name branch
+ git branch checkout 
+>>>>>>> feature1
+
+Go conflict
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ No conflict!git
