@@ -1,2 +1,3 @@
 I want to conflict!
-gi
+
+Don't give Him a conflict!
