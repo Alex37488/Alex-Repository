@@ -53,3 +53,20 @@
  variant 1
  git branch name branch
  git branch checkout 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ No conflict!git
